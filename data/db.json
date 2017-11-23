@@ -1,0 +1,14 @@
+{
+  "current": {
+    "temp": 27,
+    "humidity": 37,
+    "condition": "Soleado"
+  },
+  "history": [
+    "27"
+  ],
+  "historyLimits": {
+    "min_temp": 27,
+    "max_temp": 27
+  }
+}
