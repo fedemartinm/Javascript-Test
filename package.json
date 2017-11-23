@@ -1,7 +1,7 @@
 {
-  "name": "javascript test",
+  "name": "javascript-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "./src/app.js",
   "scripts": {
     "start": "node ./src/app.js",
